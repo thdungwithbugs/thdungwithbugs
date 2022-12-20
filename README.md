@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thdungwithbugs
 - 👀 I’m interested in coding, travel and listening to music.
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web dev.
+- 🌱 I’m a data analyst and web dev
 - 📫 How to reach me? By email: truonghoangdung57@gmail.com. or facebook url: "https://www.facebook.com/dung.hoangtruong.5/"
 
 <!---
